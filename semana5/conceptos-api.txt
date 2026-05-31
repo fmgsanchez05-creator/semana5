@@ -1,0 +1,4 @@
+¿Qué hace esta ruta?
+Esta ruta sirve para recibir y guardar la información que una persona envía a través de un formulario o un reporte. Lo que hace es tomar los datos enviados y permitir que sean registrados dentro de la aplicación.
+¿Para qué podría servir en una aplicación comunitaria?
+Podría servir para que los habitantes de una comunidad reporten situaciones que necesitan atención, como problemas en las vías, fallas en el alumbrado público, daños en espacios comunitarios o cualquier situación que afecte a la comunidad. De esta manera, la información llega de forma organizada y puede ser revisada para buscar soluciones.
